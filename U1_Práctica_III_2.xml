@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Pinturas>
+<Pinturas>
+    <Pedido>
+      <Fecha>
+          <Día>2</Día>
+          <Mes>Octubre</Mes>
+          <Año>2013</Año>
+      </Fecha>
+      <Hora tipoh="24">14:00</Hora>
+      <Proveedor>
+          <Nombre>Pepe</Nombre>
+          <CIF>J326598741</CIF>
+          <Domicilio>
+              <Vía tipo="calle">Juan Pérez</Vía>
+              <Número>1</Número>
+              <CP>33403</CP>
+          </Domicilio>
+          <Teléfono tipo="Fijo">985985985</Teléfono>
+          <Teléfono tipo="Móvil">654321987</Teléfono>
+      </Proveedor>
+      <Pintura>
+          <Marca>Bruger</Marca>
+          <Color>Rojo</Color>
+      </Pintura>
+      <Cantidad Ud="kg">5</Cantidad>
+  </Pedido>
+</Pinturas>
