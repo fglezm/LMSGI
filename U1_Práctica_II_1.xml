@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda>
+<agenda>
+<persona>
+<nombreapellidos>Francisco González Menéndez</nombreapellidos>
+<dirección>
+<calle>Juan Uría Riu</calle>
+<número>11"</número>
+<piso>2</piso>
+<letra>A</letra>
+<códigoPostal>33401</códigoPostal>
+<población>Avilés</población>
+</dirección>
+<teléfonos>
+<casa>984836676</casa>
+<móvil>607993421</móvil>
+<trabajo>987768070</trabajo>
+</teléfonos>
+</persona>
+
+</agenda>

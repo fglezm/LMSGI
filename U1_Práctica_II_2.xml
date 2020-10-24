@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciclo nombre="DAW">
+<modulo nombre="LMSGI" horas="4" caracter="obligatorio">
+<inicio dia="15" mes="septiembre" año="2010"></inicio>
+<final dia="30" mes="junio" año="2011"></final>
+<alumno>
+<nombre>Ana Fernández Gutiérrez</nombre>
+<nif>16965696L</nif>
+<telefono>789654321</telefono>
+<email>ana.fdezgtrrez@hotmail.com</email>
+<direccion>
+<via>calle</via>
+<nombre>El Percebe</nombre>
+<numero>13</numero>
+<poblacion>Santander</poblacion>
+<codigoPostal>39302</codigoPostal>
+</direccion>
+<faltas/>
+<notas/>
+</alumno>
+<alumno>
+<nombre>Pepito Grillo</nombre>
+<nif>98765432H</nif>
+<telefono>656566555</telefono>
+<email>yhyh@yahoo.com</email>
+<direccion>
+<via>avenida</via>
+<nombre>El Pez</nombre>
+<numero>5</numero>
+<poblacion>Suances</poblacion>
+<codigoPostal>39401</codigoPostal>
+</direccion>
+<faltas>0</faltas>
+<notas>apto</notas>
+</alumno>
+</modulo>
+</ciclo>
