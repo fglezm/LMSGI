@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Vehículos>
+<Vehículos>
+    <Coche tipoC="berlina" año="2010">
+        <Marca>Renault</Marca>
+        <Modelo>Laguna</Modelo>
+        <Potencia medida="cv">140</Potencia>
+        <Matrícula>0211BUN</Matrícula>
+        <NumPuertas>4</NumPuertas>
+        <ColorInt>Negro</ColorInt>
+        <ColorExt>Blanco</ColorExt>
+        <TipoCambio>Manual</TipoCambio>
+        <Precio moneda="Euros">10000</Precio>
+    </Coche>
+    <Moto año="2015">
+        <Marca>Honda</Marca>
+        <Modelo>rs500</Modelo>
+        <Potencia medida="cv">150</Potencia>
+        <Matrícula>0211BUm</Matrícula>
+        <ColorExt>Blanco</ColorExt>
+        <Precio moneda="Euros">10000</Precio>
+    </Moto>
+</Vehículos>
